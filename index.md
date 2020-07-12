@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Starrian's Blog
 
-I'm glad you are here. I plan to talk about ...
+现在的我的确是一个菜鸟，但对未来的我，我想想说：加油，不要放弃！
