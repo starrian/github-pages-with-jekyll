@@ -1,7 +1,8 @@
-title: Blog
+title: "my awesome site: an adventure in parse errors"
 author: A sturdent who is studying program
 email: 1617879627@qq.com
 theme: minima
+encoding: UTF-8
 description: > # this means to ignore newlines until "baseurl:"
     对于现在的我来说，一点点进步都弥足珍贵，也希望路过的各位大佬
   能指点迷境。
